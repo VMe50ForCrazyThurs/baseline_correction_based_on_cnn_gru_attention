@@ -9,6 +9,8 @@ train&test.py：加载训练集及测试集，训练并每5个epoch测试一次�
 
 test.py：加载最佳权重及测试集，对测试集上的loss进行计算
 
+simple_visualization.py：加载最佳权重及测试集，对测试集上的指定样本进行预测并画图展示
+
 generated_data_4000.pt：生成的训练集，包含4000个样本
 
 generated_data_1000.pt：生成的测试集，包含1000个样本
